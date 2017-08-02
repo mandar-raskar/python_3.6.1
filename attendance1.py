@@ -21,4 +21,4 @@ if att < td:
             print(name, "attendance is", num, "in detention list")
             break
 else:
-    print("kai pan chutiya kapu naka")
+    print("Please enter valid attending days")
